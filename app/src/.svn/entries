@@ -1,0 +1,44 @@
+10
+
+dir
+14
+http://pc201603192011/svn/sssss/helloword/trunk/app/src
+http://pc201603192011/svn/sssss
+
+
+
+2016-12-05T07:57:49.821127Z
+14
+zhangsan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f5218e81-cdd9-1146-97ec-163ee87db933
+
+
+
+
+
+
+0
+
+androidTest
+dir
+
+main
+dir
+
+test
+dir
+

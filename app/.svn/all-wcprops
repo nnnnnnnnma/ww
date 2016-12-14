@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/sssss/!svn/ver/14/helloword/trunk/app
+END
+proguard-rules.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/sssss/!svn/ver/14/helloword/trunk/app/proguard-rules.pro
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/sssss/!svn/ver/14/helloword/trunk/app/.gitignore
+END
+build.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/sssss/!svn/ver/14/helloword/trunk/app/build.gradle
+END
+app.iml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/sssss/!svn/ver/14/helloword/trunk/app/app.iml
+END

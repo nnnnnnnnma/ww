@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/sssss/!svn/ver/11/helloword/trunk
+END
+gradlew
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/sssss/!svn/ver/14/helloword/trunk/gradlew
+END
+settings.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/sssss/!svn/ver/14/helloword/trunk/settings.gradle
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/sssss/!svn/ver/14/helloword/trunk/.gitignore
+END
+helloword.iml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/sssss/!svn/ver/14/helloword/trunk/helloword.iml
+END
+local.properties
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/sssss/!svn/ver/14/helloword/trunk/local.properties
+END
+build.gradle
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/sssss/!svn/ver/14/helloword/trunk/build.gradle
+END
+gradlew.bat
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/sssss/!svn/ver/14/helloword/trunk/gradlew.bat
+END
+gradle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/sssss/!svn/ver/14/helloword/trunk/gradle.properties
+END
